@@ -56,13 +56,13 @@
 
 // Задача 8: Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.//
 
-Console.WriteLine("Введите положительное число:");
-int numb = Convert.ToInt32(Console.ReadLine());
-int stuff = 0;
+// Console.WriteLine("Введите положительное число:");
+// int numb = Convert.ToInt32(Console.ReadLine());
+// int stuff = 0;
 
-for (stuff = 1; stuff <= numb; stuff++){
-    if (stuff%2 == 0){
-        Console.Write(stuff + " ");
-    }
-}
-Console.WriteLine();
+// for (stuff = 1; stuff <= numb; stuff++){
+//     if (stuff%2 == 0){
+//         Console.Write(stuff + " ");
+//     }
+// }
+// Console.WriteLine();
