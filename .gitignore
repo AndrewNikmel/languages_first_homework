@@ -1,0 +1,37 @@
+        deleted:    bin/Debug/net7.0/seminar1.deps.json
+        deleted:    bin/Debug/net7.0/seminar1.dll
+        deleted:    bin/Debug/net7.0/seminar1.exe
+        deleted:    bin/Debug/net7.0/seminar1.pdb
+        deleted:    bin/Debug/net7.0/seminar1.runtimeconfig.json
+        modified:   homework/Program.cs
+        modified:   homework/bin/Debug/net7.0/homework.dll
+        modified:   homework/bin/Debug/net7.0/homework.pdb
+        modified:   homework/obj/Debug/net7.0/homework.GeneratedMSBuildEditorConfig.editorconfig
+        modified:   homework/obj/Debug/net7.0/homework.assets.cache
+        modified:   homework/obj/Debug/net7.0/homework.dll
+        modified:   homework/obj/Debug/net7.0/homework.pdb
+        deleted:    obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+        deleted:    obj/Debug/net7.0/apphost.exe
+        deleted:    obj/Debug/net7.0/ref/seminar1.dll
+        deleted:    obj/Debug/net7.0/refint/seminar1.dll
+        deleted:    obj/Debug/net7.0/seminar1.AssemblyInfo.cs
+        deleted:    obj/Debug/net7.0/seminar1.AssemblyInfoInputs.cache
+        deleted:    obj/Debug/net7.0/seminar1.GeneratedMSBuildEditorConfig.editorconfig        
+        deleted:    obj/Debug/net7.0/seminar1.GlobalUsings.g.cs
+        deleted:    obj/Debug/net7.0/seminar1.assets.cache
+        deleted:    obj/Debug/net7.0/seminar1.csproj.AssemblyReference.cache
+        deleted:    obj/Debug/net7.0/seminar1.csproj.CoreCompileInputs.cache
+        deleted:    obj/Debug/net7.0/seminar1.csproj.FileListAbsolute.txt
+        deleted:    obj/Debug/net7.0/seminar1.dll
+        deleted:    obj/Debug/net7.0/seminar1.genruntimeconfig.cache
+        deleted:    obj/Debug/net7.0/seminar1.pdb
+        deleted:    obj/project.assets.json
+        deleted:    obj/project.nuget.cache
+        deleted:    obj/seminar1.csproj.nuget.dgspec.json
+        deleted:    obj/seminar1.csproj.nuget.g.props
+        deleted:    obj/seminar1.csproj.nuget.g.targets
+        deleted:    seminar1.csproj
+        bin/
+        homework.csproj
+        obj/
+        

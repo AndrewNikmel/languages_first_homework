@@ -58,11 +58,4 @@
 
 Console.WriteLine("Введите положительное число:");
 int numb = Convert.ToInt32(Console.ReadLine());
-int t = 0;
 
-while (t <= numb){
-    if (t%2 == 0){
-        Console.WriteLine(t + " ");
-    }
-}
-Console.Write(t + " ");
